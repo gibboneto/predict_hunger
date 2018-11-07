@@ -1,2 +1,2 @@
 # predict_hunger
-Regression of countries' prevalence of undernourishment based on 45 numeric features compiled by the World Agriculture and Food Organization
+The following project analyzes a dataset compiled by from the Food and Agricultural Organization of the United Nations and the World Bank. It includes time series of 5 to 16 years of 92 countries including 45 continuous numeric features, that are derived from several types of sources including surveys, population censuses, establishment surveys, insurance records or official government estimates.
